@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.grppl.android.shell.CMBlloydsTSB73.qaBuildType",
+    "sha256_cert_fingerprints":
+    ["E4:91:C1:20:1F:13:D0:B7:EC:98:04:86:A2:51:81:43:27:64:21:03:69:45:BC:E0:62:AA:4D:8D:D7:FD:8E:3D"]
+  }
+}]
